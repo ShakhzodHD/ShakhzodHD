@@ -12,8 +12,6 @@
 ![Other](https://img.shields.io/badge/-Other-red?style=for-the-badge)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![html](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-%231572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![adobe](https://img.shields.io/badge/ADOBE-%23FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
