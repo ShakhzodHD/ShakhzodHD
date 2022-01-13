@@ -7,7 +7,8 @@
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) <br>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)<br>
 ![Other](https://img.shields.io/badge/-Other-red?style=flat-square)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat-square&logo=xamarin&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -20,4 +21,7 @@
 ![MagicaVoxel](https://img.shields.io/badge/MagicaVoxel-9400D3.svg?style=flat-square&logo=pixel&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white)
 
-Follow Me
+### Follow Me
+![vk](https://img.shields.io/badge/-ВКонтакте-4f7db3?style=flat-square&logo=VK)
+![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=unity)
+![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=unity)
