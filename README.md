@@ -22,6 +22,7 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### Follow Me
-![vk](https://img.shields.io/badge/-ВКонтакте-4f7db3?style=flat-square&logo=VK)
-![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=unity)
-![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=unity)
+[![vk](https://img.shields.io/badge/-ВКонтакте-4f7db3?style=flat-square&logo=VK)](https://vk.com/khalimov202)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](https://t.me/shahzodhd)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/khalimov02/)
+[![Steam](https://img.shields.io/badge/-steam-%23000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/1504043)
