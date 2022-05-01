@@ -15,4 +15,4 @@
 [![Steam](https://img.shields.io/badge/-steam-%23000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/1504043)
 
 ### I'm working on:
-[![*CLICK*](https://img.shields.io/badge/-Unity-%23000000?style=for-the-badge&logo=unity)](https://github.com/ShahzodHD/DarkNether2)
+[GitHub](https://github.com/ShahzodHD/DarkNether2)
