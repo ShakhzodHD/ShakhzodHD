@@ -1,7 +1,12 @@
 ![Header](https://github.com/ShahzodHD/ShahzodHD/blob/main/assets/header.png) 
 
-## Hey! I'm a beginner Game Developer
+## Hey! I'm a Game Developer 
 
+### My projects
+[Dark Nether 2: Revenge of the Fallen](https://github.com/ShahzodHD/DarkNether2) // Indie game <br> 
+[Microscope-3D](https://github.com/ShahzodHD/Microscope-3D) // Working with UI <br> 
+[WeaponTarget](https://github.com/ShahzodHD/WeaponTarget) // Test Task <br> 
+[Dark Nether](https://github.com/ShahzodHD/DarkNether) // Educational project <br> 
 ### Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
