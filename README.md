@@ -3,6 +3,7 @@
 ## Hey! I'm a Game Developer 
 
 ### My projects
+[Potion Craft](https://github.com/ShahzodHD/PotionCraft) // Indie game I'm working on right now. <br> 
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShahzodHD/DarkNether2) // Indie game <br> 
 [Microscope-3D](https://github.com/ShahzodHD/Microscope-3D) // Working with UI <br> 
 [WeaponTarget](https://github.com/ShahzodHD/WeaponTarget) // Test Task <br> 
