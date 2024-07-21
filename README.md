@@ -3,9 +3,9 @@
 
 ### My projects
 #### Indie games
-[Potion Craft](https://github.com/ShakhzodHD/PotionCraft) // Indie game I'm working on right now. <br> 
-[Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2) // Indie game <br> 
-[Dark Nether](https://github.com/ShakhzodHD/DarkNether) // Educational project <br> 
+[Potion Craft](https://github.com/ShakhzodHD/PotionCraft) // I'm working on right now. <br> 
+[Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2) <br> 
+[Dark Nether](https://github.com/ShakhzodHD/DarkNether) // First project <br> 
 #### Test assignment 
 [Playclapp](https://github.com/ShakhzodHD/Playclapp) //  <br> 
 [EmoteChess](https://github.com/ShakhzodHD/EmoteChess) // Outsourcing  <br> 
