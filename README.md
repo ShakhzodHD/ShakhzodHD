@@ -2,11 +2,15 @@
 ## Hey! I'm a Game Developer 
 
 ### My projects
+#### Indie games
 [Potion Craft](https://github.com/ShakhzodHD/PotionCraft) // Indie game I'm working on right now. <br> 
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2) // Indie game <br> 
-[Microscope-3D](https://github.com/ShakhzodHD/Microscope-3D) // Working with UI <br> 
-[WeaponTarget](https://github.com/ShakhzodHD/WeaponTarget) // Test Task <br> 
 [Dark Nether](https://github.com/ShakhzodHD/DarkNether) // Educational project <br> 
+#### Test assignment 
+[Playclapp](https://github.com/ShakhzodHD/Playclapp) //  <br> 
+[EmoteChess](https://github.com/ShakhzodHD/EmoteChess) // Outsourcing  <br> 
+[WeaponTarget](https://github.com/ShakhzodHD/WeaponTarget) //  <br> 
+[Microscope-3D](https://github.com/ShakhzodHD/Microscope-3D) // Working with UI <br> 
 ### Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
