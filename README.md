@@ -1,4 +1,12 @@
+## Contents
+- [Hey! I'm a Game Developer](#hey-im-a-game-developer)
+- [My projects](#my-projects)
+- [Languages and Tools](#languages-and-tools)
+- [Follow Me](#follow-me)
+
 ![Header](https://github.com/ShahzodHD/ShahzodHD/blob/main/assets/header.png) 
+
+
 
 ## Hey! I'm a Game Developer 
 
