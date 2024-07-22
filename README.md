@@ -6,10 +6,11 @@
 [Potion Craft](https://github.com/ShakhzodHD/PotionCraft) // I'm working on right now. <br> 
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2) <br> 
 [Dark Nether](https://github.com/ShakhzodHD/DarkNether) // First project <br> 
-#### Test assignment 
-[Playclapp](https://github.com/ShakhzodHD/Playclapp) //  <br> 
+#### Other 
+[Zombie Defence](https://github.com/ShakhzodHD/Zombie-Defence) // Cooperative (Photon)  <br> 
+[Playclapp](https://github.com/ShakhzodHD/Playclapp) // Test assignment  <br> 
 [EmoteChess](https://github.com/ShakhzodHD/EmoteChess) // Outsourcing  <br> 
-[WeaponTarget](https://github.com/ShakhzodHD/WeaponTarget) //  <br> 
+[WeaponTarget](https://github.com/ShakhzodHD/WeaponTarget) // Test assignment  <br> 
 [Microscope-3D](https://github.com/ShakhzodHD/Microscope-3D) // Working with UI <br> 
 ### Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=for-the-badge&logo=unity)
