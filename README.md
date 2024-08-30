@@ -3,9 +3,9 @@
 
 ### My projects
 #### Indie games
-[Potion Craft](https://github.com/ShakhzodHD/PotionCraft) // <br> 
+[Potion Craft](https://github.com/ShakhzodHD/PotionCraft) <br> 
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2) <br> 
-[Dark Nether](https://github.com/ShakhzodHD/DarkNether) // First project <br> 
+[Dark Nether](https://github.com/ShakhzodHD/DarkNether) <br> 
 #### Other 
 [Zombie Defence](https://github.com/ShakhzodHD/Zombie-Defence) // Cooperative (Photon)  <br> 
 [Playclapp](https://github.com/ShakhzodHD/Playclapp) // Test assignment  <br> 
