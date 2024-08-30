@@ -1,4 +1,4 @@
-![Header](https://github.com/ShakhzodHD/ShahzodHD/blob/main/assets/header.png) 
+![Header](https://github.com/ShakhzodHD/ShahzodHD/blob/main/assets/newHeader.png) 
 ## Hey! I'm a Game Developer 
 
 ### My projects
