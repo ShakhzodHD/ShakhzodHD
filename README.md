@@ -3,7 +3,7 @@
 
 ### My projects
 #### Indie games
-[New Game] // Action RPG <br>
+[**PRIVATE**] // Action RPG <br>
 [Potion Craft](https://github.com/ShakhzodHD/PotionCraft) // <br> 
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2) // <br> 
 [Dark Nether](https://github.com/ShakhzodHD/DarkNether) // <br> 
