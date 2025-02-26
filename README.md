@@ -19,11 +19,11 @@ Indie dev obsessed with games. I code in C#, build with Unity, and dabble in 3D 
 [WeaponTarget](https://github.com/ShakhzodHD/WeaponTarget) // Test assignment  <br> 
 [Microscope-3D](https://github.com/ShakhzodHD/Microscope-3D) // Working with UI <br> 
 ### Languages and Tools
-![Unity](https://img.shields.io/badge/-Unity-%23000000?style=for-the-badge&logo=unity)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-User-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)<br>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!---
 ### I'm working on:
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2)
