@@ -1,5 +1,6 @@
 ![Header](https://github.com/ShakhzodHD/ShahzodHD/blob/main/assets/newHeader.png) 
-## Hey! I'm a Game Developer 
+# Hey, I’m Shakhzod!  
+🎮 Game developer crafting interactive worlds.
 
 ### My projects
 #### Indie games
