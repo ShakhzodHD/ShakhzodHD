@@ -2,8 +2,11 @@
 # Hey, I’m Shakhzod!  
 🎮 Game developer crafting interactive worlds.
 
-### My projects
-#### Indie games
+## About Me  
+Indie dev obsessed with games. I code in C#, build with Unity, and dabble in 3D Blender.
+
+## My Projects
+### Indie games
 **[PRIVATE]** // Action RPG <br>
 **[PRIVATE]** // Horror FPS <br>
 **[PRIVATE]** // Potion Craft Idle <br>
