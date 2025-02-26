@@ -23,7 +23,7 @@ Indie dev obsessed with games. I code in C#, build with Unity, and dabble in 3D 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-User-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
+![Git](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)<br>
 <!---
 ### I'm working on:
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2)
