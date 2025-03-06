@@ -9,7 +9,7 @@ Indie dev obsessed with games. I code in C#, build with Unity, and dabble in 3D 
 ### Indie games
 **[PRIVATE]** // Action RPG <br>
 **[PRIVATE]** // Horror FPS <br>
-**[PRIVATE]** // Potion Craft Idle <br>
+[Potion Craft Idle](https://github.com/ShakhzodHD/PotionCraft) // <br> 
 [Dark Nether 2: Revenge of the Fallen](https://github.com/ShakhzodHD/DarkNether2) // <br> 
 [Dark Nether](https://github.com/ShakhzodHD/DarkNether) // <br> 
 ### Other 
