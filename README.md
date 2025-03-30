@@ -1,4 +1,4 @@
-![Header](https://github.com/ShakhzodHD/ShahzodHD/blob/main/assets/newHeader.png) 
+<!-- ![Header](https://github.com/ShakhzodHD/ShahzodHD/blob/main/assets/newHeader.png) -->
 # Hey, I’m Shakhzod!  
 🎮 Game developer crafting interactive worlds.
 
