@@ -38,24 +38,13 @@ I'm passionate about building everything from **RPGs** and **Horror FPS** games 
 | [🎯 WeaponTarget](https://github.com/ShakhzodHD/WeaponTarget) | Test Project | Unity |
 | [🔬 Microscope-3D](https://github.com/ShakhzodHD/Microscope-3D) | UI Demo | Unity |
 
-## 📊 GitHub Analytics
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakhzodHD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakhzodHD&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🎮 Game Development Philosophy
 - **Player First** - Every system serves the player experience
 - **Clean Architecture** - Maintainable and scalable code
-- **Iterative Design** - Rapid prototyping to polished product
-- **Technical Excellence** - Performance and optimization focused
 
 ## 🌟 What I'm Working On
-- 🔒 **[PRIVATE]** Action RPG - Epic adventure with deep systems
-- 🔒 **[PRIVATE]** Horror FPS - Next-level atmospheric horror
+- 🔒 **[PRIVATE]** Action RPG
+- 🔒 **[PRIVATE]** Horror FPS
 - 📦 Unity Asset Store modules - Sharing tools with the community
 
 ## 📫 Let's Connect
