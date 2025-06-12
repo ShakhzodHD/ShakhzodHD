@@ -27,6 +27,7 @@ I'm passionate about building everything from **RPGs** and **Horror FPS** games 
 |---------|------|------------|
 | [🔒 Action RPG](https://github.com/ShakhzodHD) | Game | Unity, C# |
 | [🔒 Horror FPS](https://github.com/ShakhzodHD) | Game | Unity, C# |
+| [🏗️ Node Building Placement](https://github.com/ShakhzodHD/NodeBuildingPlacementModule) | Module | Unity, MVC |
 | [🏗️ Level Map System](https://github.com/ShakhzodHD/Level-Map-System-MVC-Solution) | Module | Unity, MVC |
 | [🏗️ Grid Building System](https://github.com/ShakhzodHD/BuildingPlacementGridSystem) | Module | Unity, Zenject |
 | [🧪 Potion Craft Idle](https://github.com/ShakhzodHD/PotionCraft) | Idle Game | Unity |
