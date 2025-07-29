@@ -46,8 +46,7 @@ I'm passionate about building everything from **RPGs** and **Horror FPS** games 
 - **Clean Architecture** - Maintainable and scalable code
 
 ## 🌟 What I'm Working On
-- 🔒 **[PRIVATE]** Action RPG
-- 🔒 **[PRIVATE]** Horror FPS
+- 🔒 **[PRIVATE]** Roguelike Game
 - 📦 Unity Asset Store modules - Sharing tools with the community
 
 ## 📫 Let's Connect
