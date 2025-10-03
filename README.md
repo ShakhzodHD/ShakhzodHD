@@ -25,8 +25,8 @@ I'm passionate about building everything from **RPGs** and **Horror FPS** games 
 
 | Project | Type | Tech Stack |
 |---------|------|------------|
-| [📜 Narrative 🔒](https://github.com/ShakhzodHD) | Game | Unity, C# |
-| [🎲 Roguelike 🔒](https://github.com/ShakhzodHD) | Game | Unity, C# |
+| [📜 Narrative 🔒](https://github.com/ShakhzodHD) | Pause Game | Unity, C# |
+| [🎲 Roguelike 🔒](https://github.com/ShakhzodHD) | Pause Game | Unity, C# |
 | [💔 Action RPG 🔒](https://github.com/ShakhzodHD) | Failed Game | Unity, C# |
 | [💔 Horror FPS 🔒](https://github.com/ShakhzodHD) | Failed Game | Unity, C# |
 | [🏛️ Base Architecture Zenject MVC](https://github.com/ShakhzodHD/Base-Architecture-Zenject-MVC) | Template | Unity, Zenject, MVC |
