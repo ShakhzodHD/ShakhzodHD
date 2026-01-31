@@ -25,12 +25,12 @@ I'm passionate about building everything from **RPGs** and **Horror FPS** games 
 
 | Project | Type | Tech Stack |
 |---------|------|------------|
-| [🧩 Merge Game Template 🔒](https://github.com/ShakhzodHD) | Asset | Unity, C# |
-| [👆 Clicker Game Template 🔒](https://github.com/ShakhzodHD) | Asset | Unity, C# |
-| [📜 Narrative 🔒](https://github.com/ShakhzodHD) | Pause Game | Unity, C# |
-| [🎲 Roguelike 🔒](https://github.com/ShakhzodHD) | Pause Game | Unity, C# |
-| [💔 Action RPG 🔒](https://github.com/ShakhzodHD) | Failed Game | Unity, C# |
-| [💔 Horror FPS 🔒](https://github.com/ShakhzodHD) | Failed Game | Unity, C# |
+| 🧩 Merge Game Template 🔒| Asset | Unity, C# |
+| [👆 Clicker Game Template](https://assetstore.unity.com/packages/templates/systems/casual-clicker-game-template-338962) | Asset | Unity, C# |
+| 📜 Narrative 🔒| Pause Game | Unity, C# |
+| 🎲 Roguelike 🔒| Pause Game | Unity, C# |
+| 💔 Action RPG 🔒| Failed Game | Unity, C# |
+| 💔 Horror FPS 🔒| Failed Game | Unity, C# |
 | [🏛️ Base Architecture Zenject MVC](https://github.com/ShakhzodHD/Base-Architecture-Zenject-MVC) | Template | Unity, Zenject, MVC |
 | [🏗️ Node Building Placement](https://github.com/ShakhzodHD/NodeBuildingPlacementModule) | Module | Unity, MVC |
 | [🏗️ Level Map System](https://github.com/ShakhzodHD/Level-Map-System-MVC-Solution) | Module | Unity, MVC |
