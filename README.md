@@ -25,6 +25,8 @@ I'm passionate about building everything from **RPGs** and **Horror FPS** games 
 
 | Project | Type | Tech Stack |
 |---------|------|------------|
+| [🧩 Merge Game Template 🔒](https://github.com/ShakhzodHD) | Asset | Unity, C# |
+| [👆 Clicker Game Template 🔒](https://github.com/ShakhzodHD) | Asset | Unity, C# |
 | [📜 Narrative 🔒](https://github.com/ShakhzodHD) | Pause Game | Unity, C# |
 | [🎲 Roguelike 🔒](https://github.com/ShakhzodHD) | Pause Game | Unity, C# |
 | [💔 Action RPG 🔒](https://github.com/ShakhzodHD) | Failed Game | Unity, C# |
