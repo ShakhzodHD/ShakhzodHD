@@ -25,7 +25,7 @@ I'm passionate about building everything from **RPGs** and **Horror FPS** games 
 
 | Project | Type | Tech Stack |
 |---------|------|------------|
-| [🧩 Merge Game Template 🔒](https://assetstore.unity.com/packages/package/362750) | Asset | Unity, C# |
+| [🧩 Merge Game Template](https://assetstore.unity.com/packages/package/362750) | Asset | Unity, C# |
 | [👆 Clicker Game Template](https://assetstore.unity.com/packages/templates/systems/casual-clicker-game-template-338962) | Asset | Unity, C# |
 | [📜 Narrative 🔒](https://shahzodhd.itch.io/skeleton486) | Cancelled | Unity, C# |
 | 🎲 Roguelike 🔒| Cancelled | Unity, C# |
